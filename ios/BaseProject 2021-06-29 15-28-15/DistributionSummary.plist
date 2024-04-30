@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SecondOpinion.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>DF77533803F6D25AAFC08D4C2425FAEC25BE0FBA</string>
+				<key>dateExpires</key>
+				<string>14/06/22</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>777C32K4DF.com.mdtrack.souser</string>
+				<key>aps-environment</key>
+				<string>development</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>777C32K4DF</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>SecondOpinion.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>253d5503-69cf-4adf-896b-c758a5732c5f</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: com.mdtrack.souser</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>777C32K4DF</string>
+				<key>name</key>
+				<string>MD Track LLC</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
