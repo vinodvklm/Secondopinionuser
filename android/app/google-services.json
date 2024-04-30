@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "754740311072",
+    "project_id": "secondopinionuser",
+    "storage_bucket": "secondopinionuser.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754740311072:android:667154ab5620a4f0e6b845",
+        "android_client_info": {
+          "package_name": "com.mdtrack.souser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754740311072-tsfm9c9hsililjss5dbgt9tgi5hkpm3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFNrDPdoF1pnelZYOO5DD0Sa2kOCflqvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754740311072-tsfm9c9hsililjss5dbgt9tgi5hkpm3d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "754740311072-0ntosbq1n0avp6cov9867r9f3c683fgf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mdtrack.souser",
+                "app_store_id": "123456"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
